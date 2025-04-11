@@ -1,5 +1,5 @@
 # Art Waves - Digital Art E-commerce Platform done
-
+here are further details 
 
 
 ## 🚀 Overview
