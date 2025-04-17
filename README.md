@@ -1,4 +1,4 @@
-# Art Waves - Digital Art E-commerce Platform done
+# Art Waves - Digital Art E-commerce Platform With better UI
 here are further details with more modification 
 
 
