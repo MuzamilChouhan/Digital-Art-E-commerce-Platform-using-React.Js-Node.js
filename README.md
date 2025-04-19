@@ -1,5 +1,5 @@
 # Art Waves - Digital Art E-commerce Platform With better UI
-here are further details with more modification 
+here are further details with more modification and debugging
 
 
 ## 🚀 Overview
