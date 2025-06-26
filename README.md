@@ -8,7 +8,7 @@ further work on Smart Contract
 Art Waves is a modern, secure, and feature-rich **E-commerce platform** for digital artists and art enthusiasts. Built with **React, Node.js, Express, MongoDB**, and **Razorpay**, it provides a seamless marketplace for buying and selling digital art.
 
 This project reflects my expertise as a **Blockchain Developer** and **Full-Stack Web Expert**, incorporating robust security, scalability, and performance optimization.
-
+ 
 ## 🌟 Features
 
 - 🎨 **Modern UI/UX** – Fully responsive, intuitive design with a seamless user experience.
