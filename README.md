@@ -1,4 +1,4 @@
-# Art Waves - Digital Art E-commerce Platform With better UI
+# Art Waves - Digital Art E-commerce Platform With UI
 here are further details with more modification and debugging
 further work on Smart Contract
   
